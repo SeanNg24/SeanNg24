@@ -8,6 +8,7 @@ I'm Sean Ng, a highly motivated university student currently pursuing a double d
 
 ## Skills
 Programming: Python, R, SQL, HTML, Javascript
+
 Data visualisation: Microsoft Power BI, Tableau, Service Now Reporting
 
 ## Projects:
